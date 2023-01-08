@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9d99fb08.css",
+    "main.js": "./static/js/main.b9ee4a30.js",
+    "static/media/sony-camera.png": "./static/media/sony-camera.795c17fd7c2698f31a1e.png",
+    "static/media/greyscale-sony-camera.jpg": "./static/media/greyscale-sony-camera.41bb6aa887cc4a2d8ae2.jpg",
+    "static/media/hasselblad-camera.jpg": "./static/media/hasselblad-camera.dfb9e12081ef8c5e48d6.jpg",
+    "static/media/sony-a7-iv.png": "./static/media/sony-a7-iv.005e9b5d555faa1f0f9e.png",
+    "static/media/sony-a7s-iii.png": "./static/media/sony-a7s-iii.338e08f2f25bcbb40260.png",
+    "static/media/sony-alpha-7-IV-image.png": "./static/media/sony-alpha-7-IV-image.7c730430feef0376e5e0.png",
+    "static/media/canon-eos-r6.png": "./static/media/canon-eos-r6.9c51f78c9a0d15de48a8.png",
+    "static/media/14mm-lens.png": "./static/media/14mm-lens.f07c5e49b8047936ca96.png",
+    "static/media/nikon-coolpix-p1000.png": "./static/media/nikon-coolpix-p1000.149b8e3b1b1ab266f35f.png",
+    "static/media/flashes.png": "./static/media/flashes.a6b9908c4f5278553ea9.png",
+    "static/media/carrying-bags.png": "./static/media/carrying-bags.7f31dadf79051e90811b.png",
+    "static/media/nikon-d850.png": "./static/media/nikon-d850.0e9ff6349f59eb93b287.png",
+    "static/media/fujifilm-x-h2.png": "./static/media/fujifilm-x-h2.8bb6e6024871b5d0ff3d.png",
+    "static/media/lens.png": "./static/media/lens.b875776513e2db2ee5ab.png",
+    "static/media/fujfilm-camera.jpg": "./static/media/fujfilm-camera.eff58952e6eaa05fc3ca.jpg",
+    "static/media/canon-eos-r5-c.png": "./static/media/canon-eos-r5-c.3b350914c0b18305c43d.png",
+    "static/media/battery.png": "./static/media/battery.1cb1615887eb71184268.png",
+    "static/media/microphone.png": "./static/media/microphone.fbd0a0625b730b987fc5.png",
+    "static/media/sony-a6400.png": "./static/media/sony-a6400.47f67cd4ada0bb4650fc.png",
+    "static/media/24-70mm-lens.png": "./static/media/24-70mm-lens.821da8cef58f699b7652.png",
+    "static/media/hasselblad-x2d-100c.png": "./static/media/hasselblad-x2d-100c.4f0c719413ce16277bdf.png",
+    "static/media/70-200mm-lens.png": "./static/media/70-200mm-lens.61d3fe2b9e40aaf29354.png",
+    "static/media/shopping-bag-icon.png": "./static/media/shopping-bag-icon.0f2d4ff6bae4ae1378c4.png",
+    "static/media/profile-icon.png": "./static/media/profile-icon.9285671e9750ee4906f4.png",
+    "static/media/logo-icon-text.png": "./static/media/logo-icon-text.9125c337990b02a6366e.png",
+    "index.html": "./index.html",
+    "main.9d99fb08.css.map": "./static/css/main.9d99fb08.css.map",
+    "main.b9ee4a30.js.map": "./static/js/main.b9ee4a30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d99fb08.css",
+    "static/js/main.b9ee4a30.js"
+  ]
+}
