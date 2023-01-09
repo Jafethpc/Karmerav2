@@ -20,13 +20,12 @@ export const Products = () => {
   // Fetch API to get data from mysql
   useEffect(() => {
     const retrieveProducts = async () => {
-      const retrieveProductsAPI = await axios
-        .get("http://localhost:5000/products")
-        .then((d) => d.data);
-      console.log(retrieveProductsAPI);
-      setProducts(retrieveProductsAPI);
-
-      setProductComponenets(retrieveProductsAPI);
+      // const retrieveProductsAPI = await axios
+      //   .get("http://localhost:5000/products")
+      //   .then((d) => d.data);
+      // console.log(retrieveProductsAPI);
+      // setProducts(retrieveProductsAPI);
+      // setProductComponenets(retrieveProductsAPI);
     };
     retrieveProducts();
   }, []);
