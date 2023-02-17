@@ -27,5 +27,3 @@ These will most likely be added in the future which will show a better improveme
 
 # Thank you!
 I enjoyed making this application and hope to continue adding more additions and hope to improve upon old and new projects
-
-Karmera : http://ec2-18-212-11-76.compute-1.amazonaws.com/
